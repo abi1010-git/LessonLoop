@@ -1,5 +1,5 @@
 import json, os, re
-MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
+MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
 def _json(text):
     text = text.strip().replace("```json", "").replace("```", "").strip()
     match = re.search(r"\{.*\}", text, re.S)
