@@ -1,5 +1,7 @@
 # LessonLoop
 
+### [Open the live LessonLoop app](https://learnloop-1.streamlit.app/)
+
 “LessonLoop turns today's exit-ticket responses into actionable improvements for tomorrow's lesson plan.”
 
 ## Problem
